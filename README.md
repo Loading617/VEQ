@@ -1,2 +1,2 @@
 # VEQ
-Entertainment Equalizer for Windows
+Windows Equalizer for Entertainment
