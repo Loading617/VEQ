@@ -1,2 +1,2 @@
 # VEQ
-Windows Equalizer for Cinema
+Cinema Windows Equalizer
